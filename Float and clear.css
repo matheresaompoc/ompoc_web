@@ -1,0 +1,32 @@
+ .container{height: 70vh;}
+        .box{
+            padding:25px;
+            text-align: center;
+            color: white;
+            
+        }
+        #box1{
+            background-color: teal;
+			height: 00px;
+			width: 400px;
+
+        }
+        #box2{
+            background-color: rgb(30, 146, 107);
+			height: 200px;
+			width: 00px;
+			float: left;
+
+        }
+        #box3{
+            background-color: rgb(115, 202, 173);
+			height: 200px;
+			width: 400px;
+        }
+        #box4{
+            background-color: rgb(21, 109, 80);
+			height: 00px;
+			width: 400px;
+        }
+               
+    

@@ -1,0 +1,13 @@
+ .box1 {
+    border: 5px solid teal;
+	min-height: 100px;
+	max-height: 100px; 
+    width:400px;
+ }
+        
+.box2 {
+    border: 5px solid teal;
+	height: 100px; 
+    width:400px;
+}
+               
